@@ -1,4 +1,4 @@
-# Hi <dev/>! I'm Nathan Ferreira! 👋
+# Hi <𝚍𝚎𝚟/>, I'm Nathan Ferreira! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felps03)](https://www.linkedin.com/in/naathan-ferreira/)
 
