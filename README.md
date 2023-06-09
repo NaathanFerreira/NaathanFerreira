@@ -8,4 +8,3 @@
 - 👨‍💼 Currently working at PCA Engenharia de software as a Systems Developer.
 - 💬 Ask me about **ReactJs, NextJs, NodeJs and more**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaathanFerreira&layout=compact)
