@@ -5,6 +5,6 @@
 ## Welcome to my portfolio as a Dev 💻
 
 - 👨‍🎓 Academic background in Analysis and Systems Development.
-- 👨‍💼 Currently working at PCA Engenharia de software as a Systems Developer.
+- 👨‍💼 Currently working at PCA Engenharia de software as a Software Developer.
 - 💬 Ask me about **ReactJs, NextJs, NodeJs and more**
 
